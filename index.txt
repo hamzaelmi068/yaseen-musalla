@@ -1,0 +1,41 @@
+# Yaseen Musalla Website Development Guideline
+
+## Home
+- Welcome visitors with a warm message.
+- Provide quick links to essential information such as prayer timings and events.
+- Highlight upcoming events and featured announcements.
+
+## Services
+- Showcase educational programs and social services provided by the mosque.
+- Use clear and engaging content to describe each service.
+
+## Events
+- Implement an interactive calendar for displaying upcoming events.
+- Include details about special events and activities.
+- Consider adding a "Register for Weekly Maktab" button for easy sign-ups.
+
+## Prayer Time
+- Display daily prayer timings dynamically.
+- Include information about the Qibla direction.
+- Clearly state details about Jumu'ah prayers.
+- Announce any changes in prayer schedules or special instructions.
+
+## About
+- Provide a brief history of the mosque.
+- Clearly define the mission and values of Yaseen Musalla.
+- Introduce the leadership and staff.
+
+## Contact
+- Display contact information including address, phone, and email.
+- Include a feedback form for visitor inquiries.
+- Integrate a map and directions to the mosque.
+
+## Special Announcements
+- For Ramadan, share a downloadable PDF document with prayer guidelines.
+- Notify visitors about changes in Friday prayer schedule due to limited parking.
+- Upload important documents such as "Evening Maktab Admission Form" in both .docx and .pdf formats.
+
+## Additional Information
+- Friday Prayer Time: 1:00 pm.
+- Starting April 28th, 2023, there will be only one Friday Prayer due to limited parking.
+- Encourage visitors to rate the mosque using the "Rate Us!" feature
